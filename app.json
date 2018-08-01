@@ -1,0 +1,26 @@
+{
+  "id": "e9afd709-51e6-4fc0-905e-8e48e439ca17",
+  "name": "BuecherVerwaltung",
+  "publisher": "DWE",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50099
+  },
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ]
+}
